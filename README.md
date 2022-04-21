@@ -5,6 +5,8 @@ Other users can vote for polls by contributions - attaching NEAR tokens
 
 Most contributed/voted wins and the creator of it get funded
 
+<a href=https://www.loom.com/share/0ef23e989d93404098da77950e702e35>
+
 ```ts
 export CONTRACT=        # For Deployment
 export OWNER=           # Your Account
