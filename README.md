@@ -7,6 +7,14 @@ Most contributed/voted wins and the creator of it get funded
 
 [Video](https://www.loom.com/share/0ef23e989d93404098da77950e702e35)
 
+Mobile Application MockUp - Design Phase for both Android and iOS Platform
+![screen1](https://user-images.githubusercontent.com/61827071/166820733-6de97074-56df-4595-9933-b3ecc5954267.PNG)
+![screen2](https://user-images.githubusercontent.com/61827071/166820765-5478f63b-044d-4224-9b62-5333d0b171d6.PNG)
+![screen3](https://user-images.githubusercontent.com/61827071/166820874-cad3e723-3608-4f43-a7f7-8370f9ebee08.PNG)
+![screen4](https://user-images.githubusercontent.com/61827071/166820886-deccf444-02c6-4c30-9d67-9c555953b336.PNG)
+![screen5](https://user-images.githubusercontent.com/61827071/166820902-6a460005-e4f7-499b-9cad-f9881344f435.PNG)
+
+
 ```ts
 export CONTRACT=        # For Deployment
 export OWNER=           # Your Account
